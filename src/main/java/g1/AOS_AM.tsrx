@@ -52,5 +52,17 @@
                 </properties>
             </identification>
         </object>
+        <object type="Button" technology="Web">
+            <name>save_to_cart</name>
+            <codeName>aADD_TO_CART</codeName>
+            <description></description>
+            <identification>
+                <properties>
+                    <property name="ButtonType" type="string" isRegExp="false">submit</property>
+                    <property name="Name" type="string" isRegExp="false">ADD TO CART</property>
+                    <property name="TagName" type="string" isRegExp="false">BUTTON</property>
+                </properties>
+            </identification>
+        </object>
     </objects>
 </applicationModel>
