@@ -1,0 +1,335 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2019-03-08 06:56:11</RunStartTime>
+        <Timezone>Central Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+        <CustomFields name="Mobile Center Server:" value="http://nimbusserver.aos.com:8084"/>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2019-03-08 06:56:11</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:00:09.057]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName>NIMBUSCLIENT</HostName>
+                <NumberOfCores>4</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>9143</TotalMemory>
+                <Locale><![CDATA[en-US]]></Locale>
+                <Timezone>Central Standard Time</Timezone>
+                <User>demo</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.51]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name>g1</Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2019-03-08 06:56:11</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:08.915]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[g1.LeanFtTest]]></Name>
+                    <Description/>
+                    <StartTime>2019-03-08 06:56:11</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:00:08.915]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Test">
+                    <Data>
+                        <Name>test</Name>
+                        <Description/>
+                        <StartTime>2019-03-08 06:56:11</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:00:08.913]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Test</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name><![CDATA[Browser.launch]]></Name>
+                            <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>68.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>NimbusClient</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>NimbusClient</td></tr></table>]]></Description>
+                            <StartTime>2019-03-08 06:56:11</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.000]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path/>
+                                        <Operation>launch</Operation>
+                                        <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>68.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>NimbusClient</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>NimbusClient</td></tr></table>]]></OperationData>
+                                        <Properties/>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                        <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                                        <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
+                                    </CustomUIElements>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name><![CDATA[about:blank.navigate]]></Name>
+                            <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://advantageonlineshopping.com/#/</td></tr></table>]]></Description>
+                            <StartTime>2019-03-08 06:56:12</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:02.194]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name><![CDATA[about:blank]]></Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>navigate</Operation>
+                                        <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://advantageonlineshopping.com/#/</td></tr></table>]]></OperationData>
+                                        <Properties>
+                                            <Property>
+                                                <Name><![CDATA[type]]></Name>
+                                                <Value><![CDATA[Chrome]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[version]]></Name>
+                                                <Value><![CDATA[68.0]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[max concurrent tests]]></Name>
+                                                <Value><![CDATA[9.007199254740991E15]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[osVersion]]></Name>
+                                                <Value><![CDATA[10]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[osType]]></Name>
+                                                <Value><![CDATA[Windows]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[name]]></Name>
+                                                <Value><![CDATA[NimbusClient]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[id]]></Name>
+                                                <Value><![CDATA[NimbusClient]]></Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name><![CDATA[about:blank]]></Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name><![CDATA[SPEAKERS.click]]></Name>
+                            <Description/>
+                            <StartTime>2019-03-08 06:56:14</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:05.385]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\19b3bb63-b609-4aab-b6c4-831036214add.png">
+                                <reference><![CDATA[Resources\Snapshots\19b3bb63-b609-4aab-b6c4-831036214add.png]]></reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name><![CDATA[Advantage Shopping]]></Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name><![CDATA[Advantage Shopping]]></Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Link</Type>
+                                                <Name><![CDATA[SPEAKERS]]></Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name><![CDATA[innerText]]></Name>
+                                                <Value><![CDATA[SPEAKERS]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[tagName]]></Name>
+                                                <Value><![CDATA[SPAN]]></Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Link</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name><![CDATA[Advantage Shopping]]></Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name><![CDATA[Advantage Shopping]]></Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Link</Type>
+                                                    <Name><![CDATA[SPEAKERS]]></Name>
+                                                    <IconKey>Link</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name><![CDATA[buy_now.click]]></Name>
+                            <Description/>
+                            <StartTime>2019-03-08 06:56:20</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.517]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\217ff39a-c491-4f5c-94a8-61c605a4edfe.png">
+                                <reference><![CDATA[Resources\Snapshots\217ff39a-c491-4f5c-94a8-61c605a4edfe.png]]></reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name><![CDATA[Advantage Shopping]]></Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name><![CDATA[Advantage Shopping]]></Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Button</Type>
+                                                <Name><![CDATA[buy_now]]></Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name><![CDATA[buttonType]]></Name>
+                                                <Value><![CDATA[submit]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[name]]></Name>
+                                                <Value><![CDATA[BUY NOW]]></Value>
+                                            </Property>
+                                            <Property>
+                                                <Name><![CDATA[tagName]]></Name>
+                                                <Value><![CDATA[BUTTON]]></Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Button</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name><![CDATA[Advantage Shopping]]></Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name><![CDATA[Advantage Shopping]]></Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Button</Type>
+                                                    <Name><![CDATA[buy_now]]></Name>
+                                                    <IconKey>Button</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
