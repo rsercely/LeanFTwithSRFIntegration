@@ -8,6 +8,7 @@ import org.junit.Test;
 import com.hp.lft.sdk.*;
 import com.hp.lft.verifications.*;
 import com.hp.lft.sdk.web.*;
+import com.hp.lft.sdk.SrfLab.*;
 
 import unittesting.*;
 
@@ -38,7 +39,20 @@ public class LeanFtTest extends UnitTestClassBase {
 
     @Test
     public void test() throws GeneralLeanFtException {
-        Browser browser = BrowserFactory.launch(BrowserType.CHROME);
+        Browser browser;
+
+        boolean forSRF = true;
+
+        if (forSRF) { // remember - this won't work for remote execution unless you configure runtime settings
+            browser = SrfLab.launchBrowser(new BrowserDescription.Builder().type(BrowserType.CHROME)
+                    .set("version", "latest")
+                    .set("osType", "Windows")
+                    .set("osVersion", "10")
+                    .set("testName", "My LFT Test")
+                    .build());
+        } else {
+            browser = BrowserFactory.launch(BrowserType.CHROME);
+        }
 
         browser.navigate("http://advantageonlineshopping.com/#/");
 
