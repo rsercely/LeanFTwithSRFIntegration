@@ -54,6 +54,7 @@ public class LeanFtTest extends UnitTestClassBase {
         buyNowButton.click();
 
         AOS_AM appModel = new AOS_AM(browser);
+        appModel.aADD_TO_CART_button().click();
         appModel.aMenuCartWebElement().click();
         appModel.aREMOVEWebElement().click();
         appModel.aCONTINUESHOPPINGLink().click();
