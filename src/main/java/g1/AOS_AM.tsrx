@@ -54,7 +54,7 @@
         </object>
         <object type="Button" technology="Web">
             <name>save_to_cart</name>
-            <codeName>aADD_TO_CART</codeName>
+            <codeName>aADD_TO_CART_button</codeName>
             <description></description>
             <identification>
                 <properties>
