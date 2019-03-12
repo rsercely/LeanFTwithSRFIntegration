@@ -9,7 +9,7 @@
 
     <properties>
         <test.src.dir>src/test/java</test.src.dir>
-        <leanFT.version>leanFT.version</leanFT.version>
+        <leanFT.version>14.51.0</leanFT.version>
     </properties>
 
     <dependencies>
@@ -22,25 +22,25 @@
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>sdk</artifactId>
-            <version>leanFT.version</version>
+            <version>${leanFT.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>report</artifactId>
-            <version>leanFT.version</version>
+            <version>${leanFT.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>unittesting</artifactId>
-            <version>leanFT.version</version>
+            <version>${leanFT.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>verifications</artifactId>
-            <version>leanFT.version</version>
+            <version>${leanFT.version}</version>
         </dependency>
     </dependencies>
 
@@ -51,10 +51,6 @@
                 <url>URL of the repository containing the LeanFT jar files</url>
         </repository>-->
     </repositories>
-
-    <properties>
-        <test.src.dir>src/test/java</test.src.dir>
-    </properties>
 
     <build>
         <testSourceDirectory>${test.src.dir}</testSourceDirectory>
