@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2019-03-11 11:52:53</RunStartTime>
+        <RunStartTime>2019-03-12 10:15:51</RunStartTime>
         <Timezone>Central Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -12,10 +12,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2019-03-11 11:52:53</StartTime>
+            <StartTime>2019-03-12 10:15:51</StartTime>
             <Result>Passed</Result>
             <Links/>
-            <Duration><![CDATA[00:00:13.247]]></Duration>
+            <Duration><![CDATA[00:00:09.246]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -40,10 +40,10 @@
             <Data>
                 <Name>g1</Name>
                 <Description><![CDATA[Version: N/A]]></Description>
-                <StartTime>2019-03-11 11:52:53</StartTime>
+                <StartTime>2019-03-12 10:15:52</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration><![CDATA[00:00:13.096]]></Duration>
+                <Duration><![CDATA[00:00:09.096]]></Duration>
                 <Extension>
                     <Any>
                         <IconKey>Package</IconKey>
@@ -55,10 +55,10 @@
                 <Data>
                     <Name><![CDATA[g1.LeanFtTest]]></Name>
                     <Description/>
-                    <StartTime>2019-03-11 11:52:53</StartTime>
+                    <StartTime>2019-03-12 10:15:52</StartTime>
                     <Result>Passed</Result>
                     <Links/>
-                    <Duration><![CDATA[00:00:13.096]]></Duration>
+                    <Duration><![CDATA[00:00:09.096]]></Duration>
                     <Extension>
                         <Any>
                             <IconKey>Class</IconKey>
@@ -70,10 +70,10 @@
                     <Data>
                         <Name>test</Name>
                         <Description/>
-                        <StartTime>2019-03-11 11:52:53</StartTime>
+                        <StartTime>2019-03-12 10:15:52</StartTime>
                         <Result>Passed</Result>
                         <Links/>
-                        <Duration><![CDATA[00:00:13.092]]></Duration>
+                        <Duration><![CDATA[00:00:09.093]]></Duration>
                         <Extension>
                             <Any>
                                 <IconKey>Test</IconKey>
@@ -85,7 +85,7 @@
                         <Data>
                             <Name><![CDATA[Browser.launch]]></Name>
                             <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>68.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>NimbusClient</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>NimbusClient</td></tr></table>]]></Description>
-                            <StartTime>2019-03-11 11:52:53</StartTime>
+                            <StartTime>2019-03-12 10:15:52</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration><![CDATA[00:00:00.000]]></Duration>
@@ -113,10 +113,10 @@
                         <Data>
                             <Name><![CDATA[about:blank.navigate]]></Name>
                             <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://advantageonlineshopping.com/#/</td></tr></table>]]></Description>
-                            <StartTime>2019-03-11 11:52:54</StartTime>
+                            <StartTime>2019-03-12 10:15:52</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:02.159]]></Duration>
+                            <Duration><![CDATA[00:00:02.190]]></Duration>
                             <Extension>
                                 <Any>
                                     <TestObject>
@@ -184,12 +184,12 @@
                         <Data>
                             <Name><![CDATA[SPEAKERS.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:52:56</StartTime>
+                            <StartTime>2019-03-12 10:15:55</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:08.701]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\a946aae5-a11a-4d03-adb8-ba3e9327b588.png">
-                                <reference><![CDATA[Resources\Snapshots\a946aae5-a11a-4d03-adb8-ba3e9327b588.png]]></reference>
+                            <Duration><![CDATA[00:00:04.828]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\50b32c5e-1ba2-4e3e-b643-5bbb53cea3a3.png">
+                                <reference><![CDATA[Resources\Snapshots\50b32c5e-1ba2-4e3e-b643-5bbb53cea3a3.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
@@ -256,12 +256,12 @@
                         <Data>
                             <Name><![CDATA[buy_now.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:53:05</StartTime>
+                            <StartTime>2019-03-12 10:15:59</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.469]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\96128d9e-1ce4-4d96-b7de-17faca7516a1.png">
-                                <reference><![CDATA[Resources\Snapshots\96128d9e-1ce4-4d96-b7de-17faca7516a1.png]]></reference>
+                            <Duration><![CDATA[00:00:00.522]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\0076b90a-2a60-492a-961b-18031422ff6c.png">
+                                <reference><![CDATA[Resources\Snapshots\0076b90a-2a60-492a-961b-18031422ff6c.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
@@ -332,12 +332,12 @@
                         <Data>
                             <Name><![CDATA[save_to_cart.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:53:05</StartTime>
+                            <StartTime>2019-03-12 10:16:00</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.295]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\035403bc-8878-470d-9b41-2afe2f27830d.png">
-                                <reference><![CDATA[Resources\Snapshots\035403bc-8878-470d-9b41-2afe2f27830d.png]]></reference>
+                            <Duration><![CDATA[00:00:00.175]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\eeea4e21-52ce-4a21-8b54-82fc91583609.png">
+                                <reference><![CDATA[Resources\Snapshots\eeea4e21-52ce-4a21-8b54-82fc91583609.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
@@ -410,12 +410,12 @@
                         <Data>
                             <Name><![CDATA[menuCart.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:53:06</StartTime>
+                            <StartTime>2019-03-12 10:16:00</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.189]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\fc08b4f8-1bd1-4432-9a85-f8af8560c24c.png">
-                                <reference><![CDATA[Resources\Snapshots\fc08b4f8-1bd1-4432-9a85-f8af8560c24c.png]]></reference>
+                            <Duration><![CDATA[00:00:00.173]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\004cc0ff-1567-4322-9783-d05c246e7d20.png">
+                                <reference><![CDATA[Resources\Snapshots\004cc0ff-1567-4322-9783-d05c246e7d20.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
@@ -492,12 +492,12 @@
                         <Data>
                             <Name><![CDATA[REMOVE.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:53:06</StartTime>
+                            <StartTime>2019-03-12 10:16:00</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.198]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\938d5038-3bda-4d97-9701-8bd56ef047f2.png">
-                                <reference><![CDATA[Resources\Snapshots\938d5038-3bda-4d97-9701-8bd56ef047f2.png]]></reference>
+                            <Duration><![CDATA[00:00:00.162]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\5c6871de-ce3a-42d0-87aa-d6d8d84ba352.png">
+                                <reference><![CDATA[Resources\Snapshots\5c6871de-ce3a-42d0-87aa-d6d8d84ba352.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
@@ -578,12 +578,12 @@
                         <Data>
                             <Name><![CDATA[CONTINUE SHOPPING.click]]></Name>
                             <Description/>
-                            <StartTime>2019-03-11 11:53:06</StartTime>
+                            <StartTime>2019-03-12 10:16:01</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.172]]></Duration>
-                            <Snapshot reference="Resources\Snapshots\71015a2b-83c5-46f9-85f1-e359d1d43a8d.png">
-                                <reference><![CDATA[Resources\Snapshots\71015a2b-83c5-46f9-85f1-e359d1d43a8d.png]]></reference>
+                            <Duration><![CDATA[00:00:00.114]]></Duration>
+                            <Snapshot reference="Resources\Snapshots\b37d3ace-b4af-4ecf-89be-a625e447857f.png">
+                                <reference><![CDATA[Resources\Snapshots\b37d3ace-b4af-4ecf-89be-a625e447857f.png]]></reference>
                             </Snapshot>
                             <Extension>
                                 <Any>
