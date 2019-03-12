@@ -1,5 +1,14 @@
 package g1;
+/*
+If you are seeing many errors, including on the import of com.hp.......
+It probably means you are using a different version of leanFT than what is defined in the pom file.
 
+In pom.xml, on line 12, you might find:
+        <leanFT.version>14.51.0</leanFT.version>
+and you might need to change to
+        <leanFT.version>14.50.0</leanFT.version>
+for example
+ */
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
