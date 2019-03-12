@@ -7,6 +7,11 @@
     <name>LeanFT JUnit Test</name>
     <description>LeanFT JUnit Test</description>
 
+    <properties>
+        <test.src.dir>src/test/java</test.src.dir>
+        <leanFT.version>leanFT.version</leanFT.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -17,25 +22,25 @@
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>sdk</artifactId>
-            <version>14.51.0</version>
+            <version>leanFT.version</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>report</artifactId>
-            <version>14.51.0</version>
+            <version>leanFT.version</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>unittesting</artifactId>
-            <version>14.51.0</version>
+            <version>leanFT.version</version>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>verifications</artifactId>
-            <version>14.51.0</version>
+            <version>leanFT.version</version>
         </dependency>
     </dependencies>
 
@@ -60,7 +65,7 @@
             <!--<plugin>-->
                 <!--<groupId>com.hpe.lft</groupId>-->
                 <!--<artifactId>appmodel-generator-mojo</artifactId>-->
-                <!--<version>14.51.0</version>-->
+                <!--<version>leanFT.version</version>-->
                 <!--<executions>-->
                     <!--<execution>-->
                         <!--<phase>validate</phase>-->
